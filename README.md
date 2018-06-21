@@ -1,6 +1,6 @@
 # borderify
 
-**This extension is used as an example in the Browser Extension Basics training.
+**This extension is used as an example in the Browser Extension Basics training.**
 
 ## What it does
 
